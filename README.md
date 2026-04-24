@@ -14,6 +14,6 @@
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=samrudhigholba1&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=samrudhigholba1&icon=0&color=0)](https://samrudhigholba.lovable.app/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
